@@ -1,5 +1,9 @@
 #Simple defi protocol using Arbitrum Stylus programs in Rust
 
+## Prerequisites
+
+![alt text](<Google Chrome 2025-03-04 12.05.51.png>)
+
 ## Quick Start
 
 Install [Rust]
